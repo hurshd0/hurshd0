@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building CodeHelper 
+- 🔭 I’m currently working on building AI based CodeHelper tool  
 - 🌱 I’m currently learning NLP and IR 
 - 👯 I’m looking to collaborate on building AI/ML products
 
