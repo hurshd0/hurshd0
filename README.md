@@ -1,7 +1,22 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on building CodeHelper 
+- 🌱 I’m currently learning NLP and IR 
+- 👯 I’m looking to collaborate on building AI/ML products
+
+📫 How to reach me: ...
+
+<!-- --- Social Icons --- -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hurshd/)](https://www.linkedin.com/in/hurshd/) 
+[![Gmail](https://img.shields.io/badge/Gmail-de5145?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hurshd0@gmail.com)](mailto:hurshd0@gmail.com) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/hurshd0)](https://twitter.com/hurshd0) 
+
+
+
 <!--
 **hurshd0/hurshd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -10,7 +25,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+--- Visitor Tracking Badge ---
+![](https://visitor-badge.glitch.me/badge?page_id=will-r-wang.will-r-wang)
 -->
