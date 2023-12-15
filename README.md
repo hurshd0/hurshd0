@@ -3,7 +3,7 @@
 <!-- --- Visitor Tracking Badge --- -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hurshd0.hurshd0)
 
-- 🔭 I’m currently working on building AI based CodeHelper tool  
+- 🔭 I’m currently working on building RAG app with Graph Networks
 - 🌱 I’m currently learning NLP and IR 
 - 👯 I’m looking to collaborate on building AI/ML products
 
