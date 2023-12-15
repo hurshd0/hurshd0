@@ -13,6 +13,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-de5145?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hurshd0@gmail.com)](mailto:hurshd0@gmail.com) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/hurshd0)](https://twitter.com/hurshd0) 
 
+<h2>⚡ Github Statistics</h2>
+<p float="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurshd0&layout=compact&hide=html&theme=onedark" alt="hurshd0" />
+</p>
 
 
 <!--
